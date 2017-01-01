@@ -1,4 +1,0 @@
----
-slug: sleeveless
-name: sleeveless
----

@@ -1,4 +1,0 @@
----
-slug: babydoll
-name: babydoll
----

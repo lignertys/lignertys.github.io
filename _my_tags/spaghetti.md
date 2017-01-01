@@ -1,4 +1,0 @@
----
-slug: spaghetti
-name: spaghetti
----

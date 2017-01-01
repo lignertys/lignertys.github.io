@@ -1,4 +1,0 @@
----
-slug: strawberry
-name: strawberry
----

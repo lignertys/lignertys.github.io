@@ -1,4 +1,0 @@
----
-slug: deep
-name: deep
----

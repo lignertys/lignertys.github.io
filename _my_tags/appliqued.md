@@ -1,4 +1,0 @@
----
-slug: appliqued
-name: appliqued
----
