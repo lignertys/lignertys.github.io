@@ -1,0 +1,4 @@
+---
+slug: boat
+name: boat
+---
