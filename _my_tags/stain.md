@@ -1,0 +1,4 @@
+---
+slug: stain
+name: stain
+---
