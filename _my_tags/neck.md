@@ -1,4 +1,0 @@
----
-slug: neck
-name: neck
----

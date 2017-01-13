@@ -1,4 +1,0 @@
----
-slug: grenadine
-name: grenadine
----

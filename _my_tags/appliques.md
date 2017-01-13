@@ -1,4 +1,0 @@
----
-slug: appliques
-name: appliques
----

@@ -1,4 +1,0 @@
----
-slug: compelling
-name: compelling
----

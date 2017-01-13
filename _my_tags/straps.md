@@ -1,4 +1,0 @@
----
-slug: straps
-name: straps
----

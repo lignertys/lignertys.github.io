@@ -1,4 +1,0 @@
----
-slug: illusion
-name: illusion
----

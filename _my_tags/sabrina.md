@@ -1,4 +1,0 @@
----
-slug: sabrina
-name: sabrina
----

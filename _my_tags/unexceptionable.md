@@ -1,4 +1,0 @@
----
-slug: unexceptionable
-name: unexceptionable
----

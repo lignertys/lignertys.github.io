@@ -1,4 +1,0 @@
----
-slug: stunning
-name: stunning
----

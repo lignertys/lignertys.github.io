@@ -1,4 +1,0 @@
----
-slug: organza
-name: organza
----

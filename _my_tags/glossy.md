@@ -1,4 +1,0 @@
----
-slug: glossy
-name: glossy
----

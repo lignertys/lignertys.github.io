@@ -1,4 +1,0 @@
----
-slug: bubble
-name: bubble
----

@@ -1,4 +1,0 @@
----
-slug: chiffon
-name: chiffon
----

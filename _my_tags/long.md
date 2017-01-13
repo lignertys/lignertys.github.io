@@ -1,4 +1,0 @@
----
-slug: long
-name: long
----

@@ -1,4 +1,0 @@
----
-slug: trumpet
-name: trumpet
----

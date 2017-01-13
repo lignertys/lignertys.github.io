@@ -1,4 +1,0 @@
----
-slug: beadings
-name: beadings
----

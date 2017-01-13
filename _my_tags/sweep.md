@@ -1,4 +1,0 @@
----
-slug: sweep
-name: sweep
----

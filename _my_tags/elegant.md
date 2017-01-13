@@ -1,4 +1,0 @@
----
-slug: elegant
-name: elegant
----

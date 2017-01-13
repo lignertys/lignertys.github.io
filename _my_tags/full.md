@@ -1,4 +1,0 @@
----
-slug: full
-name: full
----

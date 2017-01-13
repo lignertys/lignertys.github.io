@@ -1,4 +1,0 @@
----
-slug: enticing
-name: enticing
----

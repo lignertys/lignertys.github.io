@@ -1,4 +1,0 @@
----
-slug: white
-name: white
----

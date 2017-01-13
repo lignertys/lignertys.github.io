@@ -1,4 +1,0 @@
----
-slug: overlay
-name: overlay
----

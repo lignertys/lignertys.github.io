@@ -1,4 +1,0 @@
----
-slug: gypsy
-name: gypsy
----

@@ -1,4 +1,0 @@
----
-slug: sheath
-name: sheath
----

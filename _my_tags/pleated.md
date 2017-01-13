@@ -1,4 +1,0 @@
----
-slug: pleated
-name: pleated
----

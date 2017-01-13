@@ -1,4 +1,0 @@
----
-slug: pool
-name: pool
----

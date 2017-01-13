@@ -1,4 +1,0 @@
----
-slug: grande
-name: grande
----

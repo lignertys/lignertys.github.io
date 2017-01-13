@@ -1,4 +1,0 @@
----
-slug: corset
-name: corset
----

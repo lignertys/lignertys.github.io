@@ -1,4 +1,0 @@
----
-slug: bateau
-name: bateau
----

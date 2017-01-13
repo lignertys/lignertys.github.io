@@ -1,4 +1,0 @@
----
-slug: beaed
-name: beaed
----

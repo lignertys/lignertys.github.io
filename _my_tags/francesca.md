@@ -1,4 +1,0 @@
----
-slug: francesca
-name: francesca
----

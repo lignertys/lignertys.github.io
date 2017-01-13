@@ -1,4 +1,0 @@
----
-slug: shoulder
-name: shoulder
----

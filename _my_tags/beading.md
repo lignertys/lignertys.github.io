@@ -1,4 +1,0 @@
----
-slug: beading
-name: beading
----

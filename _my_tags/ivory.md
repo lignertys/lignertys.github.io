@@ -1,4 +1,0 @@
----
-slug: ivory
-name: ivory
----

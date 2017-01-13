@@ -1,4 +1,0 @@
----
-slug: champagne
-name: champagne
----

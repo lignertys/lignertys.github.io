@@ -1,4 +1,0 @@
----
-slug: bodice
-name: bodice
----

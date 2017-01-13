@@ -1,4 +1,0 @@
----
-slug: bolero
-name: bolero
----

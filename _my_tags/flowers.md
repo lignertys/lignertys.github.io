@@ -1,4 +1,0 @@
----
-slug: flowers
-name: flowers
----

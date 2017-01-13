@@ -1,4 +1,0 @@
----
-slug: vintage
-name: vintage
----

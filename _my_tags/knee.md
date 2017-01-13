@@ -1,4 +1,0 @@
----
-slug: knee
-name: knee
----

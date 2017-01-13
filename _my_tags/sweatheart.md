@@ -1,4 +1,0 @@
----
-slug: sweatheart
-name: sweatheart
----

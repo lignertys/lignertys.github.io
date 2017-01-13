@@ -1,4 +1,0 @@
----
-slug: princess
-name: Princess
----

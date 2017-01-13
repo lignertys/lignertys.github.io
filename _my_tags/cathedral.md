@@ -1,4 +1,0 @@
----
-slug: cathedral
-name: cathedral
----

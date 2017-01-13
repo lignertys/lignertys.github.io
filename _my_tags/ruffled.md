@@ -1,4 +1,0 @@
----
-slug: ruffled
-name: ruffled
----

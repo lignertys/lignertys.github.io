@@ -1,4 +1,0 @@
----
-slug: short
-name: short
----

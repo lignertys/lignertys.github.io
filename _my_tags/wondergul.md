@@ -1,4 +1,0 @@
----
-slug: wondergul
-name: wondergul
----

@@ -1,4 +1,0 @@
----
-slug: damask
-name: damask
----

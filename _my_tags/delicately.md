@@ -1,4 +1,0 @@
----
-slug: delicately
-name: delicately
----

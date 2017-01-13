@@ -1,4 +1,0 @@
----
-slug: mermaid
-name: mermaid
----

@@ -1,4 +1,0 @@
----
-slug: high
-name: high
----

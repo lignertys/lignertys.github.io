@@ -1,4 +1,0 @@
----
-slug: sleeve
-name: sleeve
----
