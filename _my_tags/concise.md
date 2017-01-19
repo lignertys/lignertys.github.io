@@ -1,0 +1,4 @@
+---
+slug: concise
+name: concise
+---
