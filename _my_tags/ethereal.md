@@ -1,0 +1,4 @@
+---
+slug: ethereal
+name: ethereal
+---
