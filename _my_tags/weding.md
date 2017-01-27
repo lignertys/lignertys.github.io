@@ -1,0 +1,4 @@
+---
+slug: weding
+name: weding
+---
