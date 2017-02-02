@@ -1,0 +1,4 @@
+---
+slug: trailing
+name: trailing
+---

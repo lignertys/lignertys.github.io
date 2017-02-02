@@ -1,0 +1,4 @@
+---
+slug: bare
+name: bare
+---
