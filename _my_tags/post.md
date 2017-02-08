@@ -1,0 +1,4 @@
+---
+slug: post
+name: post
+---
