@@ -1,0 +1,4 @@
+---
+slug: typical
+name: typical
+---
