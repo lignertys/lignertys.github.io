@@ -1,0 +1,4 @@
+---
+slug: triaxial
+name: triaxial
+---
