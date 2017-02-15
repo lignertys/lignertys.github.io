@@ -1,0 +1,4 @@
+---
+slug: stand
+name: stand
+---
