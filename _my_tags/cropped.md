@@ -1,0 +1,4 @@
+---
+slug: cropped
+name: cropped
+---
