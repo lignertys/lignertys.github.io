@@ -1,0 +1,4 @@
+---
+slug: toilette
+name: toilette
+---
