@@ -1,0 +1,4 @@
+---
+slug: inner
+name: inner
+---
