@@ -1,0 +1,4 @@
+---
+slug: mina
+name: mina
+---
