@@ -1,0 +1,4 @@
+---
+slug: reagan
+name: reagan
+---
